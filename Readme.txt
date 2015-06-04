@@ -1,0 +1,1 @@
+![Codeship status](https://codeship.com/projects/0c537650-eca2-0132-a083-1232bdb5f33c/status?branch=master)
